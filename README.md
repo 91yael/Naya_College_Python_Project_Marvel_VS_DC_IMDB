@@ -11,7 +11,7 @@ The analysis involves exploring the dataset, cleaning and manipulating the data 
 4. Run the main script main.py to start the game.
 
 API Dataset: https://www.kaggle.com/datasets/hetulmehta/marvel-vs-dc-imdb-dataset/data
-This Dataset includes information about he major movies in the DC and Marvel universes.
+\n This Dataset includes information about the major movies in the DC and Marvel universes.
 
 
 
